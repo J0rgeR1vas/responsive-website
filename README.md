@@ -1,6 +1,6 @@
 # responsive-website
 creating a website  from scratch
-this will be my new full responsive website/profile.
+this will be my new full responsive website/Resume.
 will be adding javascript 
 ## Instructions
 
@@ -10,4 +10,10 @@ will be adding javascript
   - shows username
   - shows user picture
   - user login/registration 
+  - show my Resume
+  -
+  
+  
+  
+  01111001 01101111 01110101 00100111 01110010 01100101 00100000 01100001 01110111 01100101 01110011 01101111 01101101 01100101
   
