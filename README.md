@@ -11,7 +11,7 @@ will be adding javascript
   - shows user picture
   - user login/registration 
   - show my Resume
-  -
+  - simulating store
   
   
   
