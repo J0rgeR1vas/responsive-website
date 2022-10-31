@@ -9,8 +9,7 @@ will be adding javascript
   - nav bar
   - shows username
   - shows user picture
-  - user login/registration 
-  - show my Resume
+   - show my Resume
   
   
   
