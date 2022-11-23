@@ -8,7 +8,6 @@ will be adding javascript
 - create a front-end, that does at least the following (make it look as good as you want)
   - nav bar
   - shows username
-  - shows user picture
    - show my Resume
   
   
